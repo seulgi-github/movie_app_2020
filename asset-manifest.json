@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/gaeul8/movie_app_2020/static/css/main.7d88bd00.chunk.css",
+    "main.js": "/gaeul8/movie_app_2020/static/js/main.db9597d0.chunk.js",
+    "main.js.map": "/gaeul8/movie_app_2020/static/js/main.db9597d0.chunk.js.map",
+    "runtime-main.js": "/gaeul8/movie_app_2020/static/js/runtime-main.69cdec82.js",
+    "runtime-main.js.map": "/gaeul8/movie_app_2020/static/js/runtime-main.69cdec82.js.map",
+    "static/js/2.7d316a43.chunk.js": "/gaeul8/movie_app_2020/static/js/2.7d316a43.chunk.js",
+    "static/js/2.7d316a43.chunk.js.map": "/gaeul8/movie_app_2020/static/js/2.7d316a43.chunk.js.map",
+    "index.html": "/gaeul8/movie_app_2020/index.html",
+    "static/css/main.7d88bd00.chunk.css.map": "/gaeul8/movie_app_2020/static/css/main.7d88bd00.chunk.css.map",
+    "static/js/2.7d316a43.chunk.js.LICENSE.txt": "/gaeul8/movie_app_2020/static/js/2.7d316a43.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69cdec82.js",
+    "static/js/2.7d316a43.chunk.js",
+    "static/css/main.7d88bd00.chunk.css",
+    "static/js/main.db9597d0.chunk.js"
+  ]
+}
